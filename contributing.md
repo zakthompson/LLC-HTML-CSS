@@ -25,7 +25,7 @@ If you are a workshop instructor and would like to make specific modifications f
 To make changes to the slide deck that you want integrated back into the canonical repo:
 
 1. Fork `https://github.com/ladieslearningcode/LLC-HTML-CSS.git` to your own Github account
-2. Make your changes and commit them to your fork
+2. Make your changes and commit them to your repo
 3. Push to your fork on Github
 4. File a pull request against /ladieslearningcode/LLC-HTML-CSS
     - from your fork on Github, go to **Pull Requests**
@@ -40,3 +40,7 @@ To make changes to the slide deck that you want integrated back into the canonic
         git remote add upstream https://github.com/ladieslearningcode/LLC-HTML-CSS.git
 
   then pull and merge upstream into your master.
+  
+## Bugs, Feature Requests, Suggestions
+
+We use Github Issues to keep track of suggestions, bugs, and ideas: [File an Issue](https://github.com/ladieslearningcode/LLC-HTML-CSS/issues)
