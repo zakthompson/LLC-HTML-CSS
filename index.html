@@ -23,6 +23,11 @@
   <link rel="stylesheet" id='style-theme-link' href="src/css/coderdeck.css" type="text/css" >
   <style type="text/css">
     
+    .deck-container {
+    margin-top: 20px;
+    }
+
+
   </style>
 
   <script type="text/javascript">
@@ -61,32 +66,11 @@
     <!-- SLIDE: Workshop intro -->
     <article class='slide slide-title'>
       <div class="workshop_title">
+        <h2>Welcome to Ladies Learning Code's</h2>
         <h1>Introduction to HTML &amp; CSS</h1>
       </div>
-      <div class="instructor_holder">
-        <h2>Your instructors</h2>
-        <div>
-          <img src="assets/heather_avatar.jpg" width="72" height="72" alt="heather payne" />
-          <h4>Heather Payne</h4>
-          heather [at] heatherpayne.ca
-          <br />
-          <a href="http://heatherpayne.ca" target="_blank">heatherpayne.ca</a>
-          //
-          <a href="http://twitter.com/heatherpayne" target="_blank">@heatherpayne</a>
-        </div>
-        <br>
-        <div>
-          <img src="assets/tessa_avatar.jpg" width="72" height="72" alt="pearl chen" />
-          <h4>Tessa Thornton</h4>
-          tessa [at] thephuse.com
-          <br />
-          <a href="http://tessathornton.com/" target="_blank">tessathornton.com</a>
-          //
-          <a href="https://twitter.com/tessthornton" target="_blank">@tessthornton</a>
-        </div>
         
         <br  clear="left" />
-      </div>
       <p style="padding-top: 55px; margin-bottom: 0; font-size: 0.9em; color: #999;">
         ( Interactive code slides thanks to
         <a href="http://cykod.github.com/CoderDeck/" target="_blank" style="color: #999;">CoderDeck</a>. Also, thanks to <a href="http://twitter.com/pearlchen">Pearl Chen</a> and <a href="http://twitter.com/markreale">Mark Reale</a> for creating the foundation for today's content. )</p>
@@ -102,13 +86,13 @@
     <!-- SLIDE: Course Outline -->
     <article class='slide slide-list'>
       <h2>Course Outline</h2>
-      <h3 style="margin-top: 1em;">Morning</h3>
+      <h3 style="margin-top: 1em;">First portion (usually completed before lunch):</h3>
       <ul>
         <li>Intro to HTML</li>
         <li>Write the HTML for your project</li>
         <li>Intro to CSS</li>
       </ul>
-      <h3 style="margin-top: 1em;">Afternoon</h3>
+      <h3 style="margin-top: 1em;">Second portion (usually completed after lunch)</h3>
       <ul>
         <li>More CSS</li>
         <li>Final touches</li>
@@ -600,7 +584,6 @@ h2 {
 <pre><code class="language-css">
   h2 {
     background-color: green;
-    font-weight: bold;
     font-size: 28px;
   }
 </code></pre>
@@ -613,7 +596,7 @@ h2 {
     <article class="slide slide-list">
       <h2>Exercise: First CSS Rule</h2>
       <ul>
-        <li>Find the set of <code>&lt;style></code> tags in the <code>&lt;head></code> of <strong>index.html</strong></li>
+        <li>Find the set of <code>&lt;style></code> tags in the <code>&lt;head></code> of <strong>blank.html</strong></li>
         <li>In between the two tags, write a selector for the <code>&lt;body></code> tag of the document</li>
         <li>Next, add a <code>color: </code> property with a value of <code>blue;</code></li>
 <pre><code class="language-css">
