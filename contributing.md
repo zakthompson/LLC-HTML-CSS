@@ -43,4 +43,4 @@ To make changes to the slide deck that you want integrated back into the canonic
   
 ## Bugs, Feature Requests, Suggestions
 
-We use Github Issues to keep track of suggestions, bugs, and ideas: [File an Issue](https://github.com/ladieslearningcode/LLC-HTML-CSS/issues)
+We use Github Issues to keep track of suggestions, bugs, and ideas: [File an Issue](https://github.com/ladieslearningcode/LLC-HTML-CSS/issues). Please reference the slide number you are referring to if applicable. 
