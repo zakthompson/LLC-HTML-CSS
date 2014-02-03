@@ -1,6 +1,6 @@
 # Editing and Contributing to LLC-HTML-CSS
 
-**Note: this is now the canonical upstream repo for Ladies Learning Code Intro to HTML & CSS**
+**Note: [github.com/ladieslearningcode/LLC-HTML-CSS](https://github.com/ladieslearningcode/LLC-HTML-CSS) is now the canonical upstream repo for Ladies Learning Code Intro to HTML & CSS**
 
 ## If you are an instructor and want to make workshop-specific changes before your event
 
